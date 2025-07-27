@@ -20,7 +20,7 @@
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-switch": "^1.1.2",
     "@stream-io/node-sdk": "^0.4.9",
-    "@stream-io/video-react-sdk": "^1.10.0",
+    "@stream-io/video-react-sdk": "^1.19.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "convex": "^1.18.2",
